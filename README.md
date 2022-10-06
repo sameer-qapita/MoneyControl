@@ -8,6 +8,7 @@ This is an application built to keep the transaction records of an individual,he
  
  This project was focused to build a better understanding of .net Core, MVC , Microsoft SQL Server, syncFusion(third-party library), C# technologies.
 
+# Dashboard Page
 ![dashboard](https://user-images.githubusercontent.com/88432229/194344486-49d62f3b-ad68-4ffd-87b0-abe24094422a.png)
 ![category](https://user-images.githubusercontent.com/88432229/194344543-9c24aa7f-b142-4307-8b01-b59c39ab83be.png)
 ![transaction](https://user-images.githubusercontent.com/88432229/194344716-6bca8062-84a9-40bf-805c-f07635f0aa67.png)
