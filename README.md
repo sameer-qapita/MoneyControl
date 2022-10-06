@@ -7,3 +7,5 @@ This is an application built to keep the transaction records of an individual,he
  know how much you have spent on that particular category.
  
  This project was focused to build a better understanding of .net Core, MVC , Microsoft SQL Server, syncFusion(third-party library), C# technologies.
+
+![dashboard](https://user-images.githubusercontent.com/88432229/194343216-18ad6b05-5f13-43b8-9790-7686d2f9f8d5.png)
